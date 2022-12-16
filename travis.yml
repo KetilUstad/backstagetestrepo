@@ -1,7 +1,3 @@
-
-#Loads more information to check for owerwrite on file inclusion
-
-#Test for additions to file
-
-
-#More additions mas more 
+env:
+  - DOC_SITE_NAME=${{values.name | dump}}
+import: finn/travis-techdocs:publish.yml@master
