@@ -1,9 +1,0 @@
-site_name: "Ketil"
-site_description: "Insanely contentful description of repo changes"
-
-nav:
-  - Introduction: index.md
-
-plugins:
-  - techdocs-core
-  #- kroki
