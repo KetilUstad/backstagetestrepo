@@ -1,5 +1,5 @@
-site_name: ${{values.name | dump}}
-site_description: ${{values.description | dump}}
+site_name: "Ketil"
+site_description: "Insanely contentful description of repo changes"
 
 nav:
   - Introduction: index.md
